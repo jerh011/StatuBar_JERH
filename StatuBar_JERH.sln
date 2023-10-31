@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatuBar_JERH.Android", "StatuBar_JERH\StatuBar_JERH.Android\StatuBar_JERH.Android.csproj", "{19659661-2D67-4201-B667-3719D784256E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatuBar_JERH", "StatuBar_JERH\StatuBar_JERH\StatuBar_JERH.csproj", "{794BD100-8A4E-442C-BEB6-25CD5CB22E9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19659661-2D67-4201-B667-3719D784256E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19659661-2D67-4201-B667-3719D784256E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19659661-2D67-4201-B667-3719D784256E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{19659661-2D67-4201-B667-3719D784256E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19659661-2D67-4201-B667-3719D784256E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19659661-2D67-4201-B667-3719D784256E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{794BD100-8A4E-442C-BEB6-25CD5CB22E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794BD100-8A4E-442C-BEB6-25CD5CB22E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794BD100-8A4E-442C-BEB6-25CD5CB22E9C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{794BD100-8A4E-442C-BEB6-25CD5CB22E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794BD100-8A4E-442C-BEB6-25CD5CB22E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{794BD100-8A4E-442C-BEB6-25CD5CB22E9C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB7AAA6A-7580-4829-880D-55E91B2E7B95}
+	EndGlobalSection
+EndGlobal
